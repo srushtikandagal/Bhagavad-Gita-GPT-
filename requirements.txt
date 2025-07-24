@@ -1,0 +1,14 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+langchain-text-splitters
+tqdm
+ipywidgets
+ipywidgets
+langchain-groq
+streamlit 
+langchain-huggingface
+faiss-gpu
+streamlit-extras
